@@ -108,7 +108,7 @@ mend-orion-orbital-detection/
 | Lorran | RM558982 |
 | Maria | RM557478 |
 | Pedro | RM556268 |
-| Pedro | RM555200 |
+| Vinícius | RM555200 |
 
 ---
 
